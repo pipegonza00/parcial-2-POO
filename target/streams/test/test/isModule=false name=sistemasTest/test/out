@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32msistemasTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- se agrega un salon al la lista de salones[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- se hace una reserva de tipo clase[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- se prende el aire de un salon *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  i.estadoLuz was false (sistemaTest.scala:38)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- se paga la luz de un salon *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  i.estadoLuz was false (sistemaTest.scala:55)[0m[0m
